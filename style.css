@@ -28,7 +28,7 @@ body {
 main {
   max-width: 650px;
   background-color: var(--White);
-  margin: 0 auto;
+  margin: 5rem auto;
   padding: 2rem;
   border-radius: 1.25rem;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
